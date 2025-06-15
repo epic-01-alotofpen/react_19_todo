@@ -4,4 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
+  base: '/react_19_todo/',
 })
